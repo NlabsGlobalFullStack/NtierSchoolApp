@@ -17,6 +17,22 @@ public class SeedDataController(
         var classRooms = context.ClassRooms.ToList();
         var random = new Random();
 
+        // Eğer sınıf odası yoksa, önce 4 adet sınıf ekleyin
+        if (classRooms.Count == 0)
+        {
+            for (int j = 1; j <= 4; j++)
+            {
+                ClassRoom newClassRoom = new()
+                {
+                    Name = $"Sınıf {j}"
+                };
+
+                context.Add(newClassRoom);
+                context.SaveChanges();
+                classRooms.Add(newClassRoom);
+            }
+        }
+
         for (int i = 0; i < 1000; i++)
         {
             Faker faker = new();
@@ -29,10 +45,12 @@ public class SeedDataController(
                 identityNumber = Math.Ceiling(faker.Person.Random.Decimal(11111111111, 999999999998)).ToString();
             }
 
+            // Rastgele bir sınıf seçin ve öğrenci oluşturun
+            ClassRoom randomClassRoom = classRooms[random.Next(0, classRooms.Count)];
 
             Student student = new()
             {
-                ClassRoomId = classRooms[random.Next(0, classRooms.Count)].Id,
+                ClassRoomId = randomClassRoom.Id,
                 FirstName = faker.Person.FirstName,
                 LastName = faker.Person.LastName,
                 IdentityNumber = identityNumber,
@@ -48,4 +66,5 @@ public class SeedDataController(
 
         return NoContent();
     }
+
 }

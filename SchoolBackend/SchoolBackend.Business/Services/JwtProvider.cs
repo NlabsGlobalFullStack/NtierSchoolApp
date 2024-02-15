@@ -8,11 +8,11 @@ public sealed class JwtProvider : IJwtProvider
 {
     public string CreateToken()
     {
-        var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("benim şire anahtarım benim şire anahtarım benim şire anahtarım benim şire anahtarım benim şire anahtarım"));
+        var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("benim şifre anahtarım benim şifre anahtarım benim şifre anahtarım benim şifre anahtarım benim şifre anahtarım"));
 
         JwtSecurityToken jwtSecurityToken = new(
-            issuer: "Taner Saydam",
-            audience: "Taner Saydam",
+            issuer: "Cuma KÖSE",
+            audience: "Cuma KÖSE",
             claims: null,
             notBefore: DateTime.Now,
             expires: DateTime.Now.AddHours(1),

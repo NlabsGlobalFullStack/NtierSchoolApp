@@ -1,3 +1,4 @@
+using DefaultCorsPolicyNugetPackage;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -23,7 +24,8 @@ builder.Services.AddCors(corsService =>
     {
         policy.AllowAnyHeader();
         policy.AllowAnyMethod();
-        policy.AllowAnyOrigin();
+        policy.AllowCredentials();
+        policy.SetIsOriginAllowed(policy => true);
     });
 });
 
@@ -112,7 +114,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+
 
 app.UseCors();
 
@@ -128,9 +130,12 @@ using (var scoped = app.Services.CreateScope())
             Email = "admin@admin.com",
             UserName = "admin"
         };
-        userManager.CreateAsync(appUser, "1").Wait();
+        userManager.CreateAsync(appUser, "String1*").Wait();
     }
 }
+
+
+app.UseHttpsRedirection();
 
 app.MapControllers();
 
