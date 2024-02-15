@@ -1,0 +1,12 @@
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\bin\Debug\net8.0\SchoolBackend.Entities.deps.json
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\bin\Debug\net8.0\SchoolBackend.Entities.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\bin\Debug\net8.0\SchoolBackend.Entities.pdb
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.csproj.AssemblyReference.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.AssemblyInfoInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.AssemblyInfo.cs
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.csproj.CoreCompileInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\refint\SchoolBackend.Entities.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\SchoolBackend.Entities.pdb
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.Entities\obj\Debug\net8.0\ref\SchoolBackend.Entities.dll

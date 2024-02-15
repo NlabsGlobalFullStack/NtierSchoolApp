@@ -1,0 +1,17 @@
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\bin\Debug\net8.0\SchoolBackend.DataAccess.deps.json
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\bin\Debug\net8.0\SchoolBackend.DataAccess.runtimeconfig.json
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\bin\Debug\net8.0\SchoolBackend.DataAccess.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\bin\Debug\net8.0\SchoolBackend.DataAccess.pdb
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\bin\Debug\net8.0\SchoolBackend.Entities.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\bin\Debug\net8.0\SchoolBackend.Entities.pdb
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.csproj.AssemblyReference.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.AssemblyInfoInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.AssemblyInfo.cs
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBa.8EF526FD.Up2Date
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\refint\SchoolBackend.DataAccess.dll
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.pdb
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\SchoolBackend.DataAccess.genruntimeconfig.cache
+C:\Users\turkm\Desktop\Projects\FullStack\NTierSchoolAppp\SchoolBackend\SchoolBackend.DataAccess\obj\Debug\net8.0\ref\SchoolBackend.DataAccess.dll
